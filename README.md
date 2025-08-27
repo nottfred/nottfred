@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SANWOOLA OLUWASEYI FREDRICK
-A cybersecurity analyst that has a diverse skill set that includes expertise in SIEM tools, packet sniffing, networking, web application tools, Linux, and SQL. With a strong understanding of cybersecurity principles and techniques, I'm able to effectively monitor and analyze security incidents, identify vulnerabilities, and implement necessary security measures to protect an organization's systems and data. my proficiency in various tools and technologies makes me a valuable asset in defending against cyber threats and mitigating risks.
-- 📫 How to reach me ... nottfred@icloud.com 
+A dedicated and skilled penetration tester and bug hunter with a passion for safeguarding organizations from cyber threats. With extensive experience in web security and bug hunting, I specialize in identifying, analyzing, and mitigating security vulnerabilities. My success in these roles stems from a deep understanding of cybersecurity principles, hands-on expertise with a wide range of security technologies and tools, and a proactive approach to uncovering vulnerabilities through rigorous testing and innovative techniques.
+- 📫 How to reach me ... hxxfrd73@gmail.com 
 
 - ⚡ Fun fact: ..love solving problems
 
